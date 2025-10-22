@@ -24,8 +24,8 @@ A fake FPS overlay application that displays simulated gaming metrics (FPS, PING
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/fakefps.git
-cd fakefps
+git clone https://github.com/De3w/FakeFps.git
+cd FakeFps
 ```
 
 2. Install dependencies:
@@ -35,15 +35,14 @@ pip install -r requirements.txt
 
 3. Run the application:
 ```bash
-# GUI Version
 python main.py
 ```
 
 ### Option 2: Use Executable / ตัวเลือกที่ 2: ใช้ไฟล์ที่รันได้
 
-Download the latest release from the [Releases](https://github.com/yourusername/fakefps/releases) page and run the executable files.
+Download the latest release from the [Releases](https://github.com/De3w/FakeFps/releases) page and run the executable files.
 
-ดาวน์โหลดเวอร์ชันล่าสุดจากหน้า [Releases](https://github.com/yourusername/fakefps/releases) และรันไฟล์ที่รันได้
+ดาวน์โหลดเวอร์ชันล่าสุดจากหน้า [Releases](https://github.com/De3w/FakeFps/releases) และรันไฟล์ที่รันได้
 
 ## Configuration / การกำหนดค่า
 
@@ -71,7 +70,6 @@ CPU=5
 - แสดงเฉพาะเมื่อ FiveM เป็นหน้าต่างที่ใช้งานอยู่
 - อัปเดตเมตริกซ์แบบเรียลไทม์พร้อมการเปลี่ยนแปลงที่สมจริง
 
-
 ## Building Executables / การสร้างไฟล์ที่รันได้
 
 To build executable files from source:
@@ -97,16 +95,6 @@ pyinstaller --onefile --windowed --name "FakeFPS-GUI" main.py
 This project is for educational and entertainment purposes only.
 
 โปรเจกต์นี้มีไว้เพื่อการศึกษาและความบันเทิงเท่านั้น
-
-## Screenshots / ภาพหน้าจอ
-
-![Fake FPS Overlay](screenshot.png)
-
-## Contributing / การมีส่วนร่วม
-
-Feel free to submit issues and enhancement requests!
-
-ยินดีรับการรายงานปัญหาและคำขอปรับปรุง!
 
 ## Disclaimer / ข้อจำกัดความรับผิดชอบ
 
